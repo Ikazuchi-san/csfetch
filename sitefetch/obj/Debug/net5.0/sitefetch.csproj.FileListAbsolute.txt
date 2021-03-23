@@ -1,0 +1,16 @@
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\sitefetch.exe
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\sitefetch.deps.json
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\sitefetch.runtimeconfig.json
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\sitefetch.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\sitefetch.dll
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\ref\sitefetch.dll
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\bin\Debug\net5.0\sitefetch.pdb
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.AssemblyInfo.cs
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.dll
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\ref\sitefetch.dll
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.pdb
+C:\Users\Antonio\Documents\programming\C#\fetchsite\sitefetch\obj\Debug\net5.0\sitefetch.genruntimeconfig.cache
